@@ -1,0 +1,1 @@
+package com.baesh.careersummary;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;@SpringBootApplicationpublic class CareerSummaryApplication {    public static void main(String[] args) {        SpringApplication.run(CareerSummaryApplication.class, args);    }}
