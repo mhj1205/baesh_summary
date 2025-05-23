@@ -1,0 +1,8 @@
+com\baesh\careersummary\controller\SummaryController.class
+com\baesh\careersummary\dto\SummaryResponse.class
+com\baesh\careersummary\dto\PortfolioRequest.class
+com\baesh\careersummary\entity\CareerSummary.class
+com\baesh\careersummary\CareerSummaryApplication.class
+com\baesh\careersummary\repository\CareerSummaryRepository.class
+com\baesh\careersummary\util\LocalLLMClient.class
+com\baesh\careersummary\service\SummaryService.class
